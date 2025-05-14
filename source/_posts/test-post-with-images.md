@@ -38,4 +38,4 @@ def hello_world():
 
 ## 链接展示
 
-[访问我的博客](https://fantasticnana.xyz)
+[访问我的博客](https://wengerblogs.me)

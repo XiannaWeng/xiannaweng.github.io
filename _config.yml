@@ -4,3 +4,5 @@ deploy:
   type: git
   repo: git@github.com:XiannaWeng/xiannaweng.github.io.git
   branch: main
+
+author: Wenger

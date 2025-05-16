@@ -35,11 +35,11 @@ modelscope download --dataset 'FreedomIntelligence/medical-o1-reasoning-SFT' --l
 
 ### 获取模型
 
-![image-20250516092101371](/Users/xiannaweng/Library/Application Support/typora-user-images/image-20250516092101371.png)
+![image-20250516185241883](https://fantasticnana.xyz/2025/05/cdb86874de15b92a18b0765a51a7c5a4.png)
 
 ### 获取数据集
 
-![image-20250516092154805](/Users/xiannaweng/Library/Application Support/typora-user-images/image-20250516092154805.png)
+![image-20250516185301257](https://fantasticnana.xyz/2025/05/4cf33db05d3f0d735605b7fe1d2e00af.png)
 
 ## Hugging Face
 

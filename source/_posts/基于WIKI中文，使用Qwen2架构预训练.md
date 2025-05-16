@@ -11,7 +11,7 @@ categories:
 第一次预训练，有很多代码细节不太理解，所以对代码做了全注释。
 
 使用Hugging Face和魔搭的教程参考：
-[魔搭社区和Hugging Face使用攻略](/2025/05/16/魔搭社区和Hugging-Face使用攻略)
+[魔搭社区和Hugging Face使用攻略](/posts/魔搭社区和Hugging-Face使用攻略/)
 
 ```python
 import datasets        # 导入Hugging Face datasets库，用于加载和处理数据集

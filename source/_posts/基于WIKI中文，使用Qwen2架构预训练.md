@@ -13,6 +13,12 @@ categories:
 使用Hugging Face和魔搭的教程参考：
 [魔搭社区和Hugging Face使用攻略](/posts/魔搭社区和Hugging-Face使用攻略/)
 
+首先引入依赖：
+
+```
+pip install swanlab transformers datasets accelerate modelscope
+```
+
 ```python
 import datasets        # 导入Hugging Face datasets库，用于加载和处理数据集
 import transformers   # 导入Hugging Face transformers库，用于加载模型、tokenizer和训练
